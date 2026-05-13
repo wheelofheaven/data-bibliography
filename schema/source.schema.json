@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/wheelofheaven/data-bibliography/main/schema/source.schema.json",
+  "title": "Source",
+  "description": "A bibliographic record for a source used in Wheel of Heaven.",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "description",
+    "authored_by",
+    "source_type",
+    "source_family",
+    "relation_to_wheel",
+    "stance",
+    "licensing_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Stable kebab-case slug. Must match the filename (without .json)."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Display title in English."
+    },
+    "original_title": {
+      "type": "string",
+      "description": "Native-language title for translated works."
+    },
+    "description": {
+      "type": "object",
+      "required": ["en"],
+      "additionalProperties": {
+        "type": "string"
+      },
+      "properties": {
+        "en": { "type": "string", "minLength": 1 }
+      },
+      "description": "Description keyed by language code. 'en' is required."
+    },
+    "authored_by": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Author or attribution list."
+    },
+    "publish_date": {
+      "type": "string",
+      "description": "Freeform; supports BCE notation and approximations (e.g. '-300?', '1974', 'c. 1850')."
+    },
+    "follow_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Canonical external URL for the source."
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "academic_monograph",
+        "academic_article",
+        "scripture",
+        "myth_text",
+        "encyclopedia",
+        "commentary",
+        "documentary",
+        "official_document",
+        "fiction",
+        "lecture",
+        "web_resource",
+        "podcast",
+        "manifesto"
+      ]
+    },
+    "source_family": {
+      "type": "string",
+      "enum": [
+        "raelian",
+        "abrahamic",
+        "mesopotamian",
+        "second_temple",
+        "mormon",
+        "bahai",
+        "caodaist",
+        "oomoto",
+        "iranian",
+        "western_esoteric",
+        "archaeoastronomy",
+        "neo_euhemerism",
+        "criticism",
+        "science",
+        "supplementary"
+      ]
+    },
+    "relation_to_wheel": {
+      "type": "string",
+      "enum": [
+        "foundational",
+        "comparative_primary",
+        "scholarly_context",
+        "scientific_context",
+        "critical_context",
+        "supplementary"
+      ]
+    },
+    "stance": {
+      "type": "string",
+      "enum": ["neutral", "supportive", "critical"]
+    },
+    "licensing_status": {
+      "type": "string",
+      "enum": ["public_domain", "licensed", "unknown"]
+    },
+    "topics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Freeform topic tags."
+    },
+    "library_slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Slug in data-library for digitized texts (bidirectional cross-link)."
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Legacy URLs preserved for reference. Redirects themselves live in static/_redirects in the site repo."
+    },
+    "draft": {
+      "type": "boolean",
+      "description": "If true, the record is hidden from public surfaces."
+    }
+  }
+}

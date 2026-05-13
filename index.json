@@ -1,0 +1,468 @@
+[
+  {
+    "id": "a-gentlemans-joyous-esotericism",
+    "title": "A Gentleman’s Joyous Esotericism: Jean Sendy Above and Beyond the Ancient Aliens",
+    "source_type": "academic_article",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "alternative-history-s-mainstream-history",
+    "title": "Alternative History VS Mainstream History or War on Facts",
+    "source_type": "documentary",
+    "source_family": "criticism",
+    "relation_to_wheel": "critical_context",
+    "stance": "critical"
+  },
+  {
+    "id": "ancient-apocalypse",
+    "title": "Ancient Apocalypse",
+    "source_type": "documentary",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "avesta",
+    "title": "Avesta",
+    "source_type": "scripture",
+    "source_family": "iranian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "bahaipedia",
+    "title": "Bahaipedia",
+    "source_type": "encyclopedia",
+    "source_family": "bahai",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "barton-cylinder",
+    "title": "Barton Cylinder",
+    "source_type": "myth_text",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "book-of-abraham",
+    "title": "Book of Abraham",
+    "source_type": "scripture",
+    "source_family": "mormon",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "book-of-enoch",
+    "title": "Book of Enoch",
+    "source_type": "scripture",
+    "source_family": "second_temple",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral",
+    "library_slug": "book-of-enoch"
+  },
+  {
+    "id": "book-of-mormon",
+    "title": "Book of Mormon",
+    "source_type": "scripture",
+    "source_family": "mormon",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "creators-the-past",
+    "title": "Creators: The Past",
+    "source_type": "documentary",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "debate-between-sheep-and-grain",
+    "title": "Debate between sheep and grain",
+    "source_type": "myth_text",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "debate-between-winter-and-summer",
+    "title": "Debate between Winter and Summer",
+    "source_type": "myth_text",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "divine-signposts",
+    "title": "Divine Signposts",
+    "source_type": "scripture",
+    "source_family": "oomoto",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "echoes-of-eden",
+    "title": "Echoes of Eden: What secrets of human potential were buried with our ancestors' memories of ET contact?",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "enlil-and-ninlil-the-begetting-of-nanna",
+    "title": "Enlil and Ninlil: The begetting of Nanna",
+    "source_type": "myth_text",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "epic-of-gilgamesh",
+    "title": "Epic of Gilgamesh",
+    "source_type": "myth_text",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "escaping-from-eden",
+    "title": "Escaping from Eden: Does Genesis teach that the human race was created by God or engineered by ETs?",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "extraterrestrials-took-me-to-their-planet",
+    "title": "Extraterrestrials Took Me To Their Planet",
+    "source_type": "scripture",
+    "source_family": "raelian",
+    "relation_to_wheel": "foundational",
+    "stance": "supportive"
+  },
+  {
+    "id": "fingerprints-of-the-gods",
+    "title": "Fingerprints of the Gods: The Evidence of Earth's Lost Civilization",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "hamlets-mill",
+    "title": "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "hermetica",
+    "title": "Hermetica",
+    "source_type": "myth_text",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "internet-sacred-text-archive",
+    "title": "Internet Sacred Text Archive",
+    "source_type": "encyclopedia",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "is-genesis-history",
+    "title": "Is Genesis History?",
+    "source_type": "documentary",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "kitab-i-aqdas",
+    "title": "Kitáb-i-Aqdas",
+    "source_type": "scripture",
+    "source_family": "bahai",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "kosmographia",
+    "title": "Kosmographia — The Official Randall Carlson Podcast",
+    "source_type": "lecture",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "la-bible-of-la-pleiade",
+    "title": "The Bible of La Pleiade",
+    "source_type": "commentary",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "lets-welcome-the-extraterrestrials",
+    "title": "Let's Welcome The Extraterrestrials",
+    "source_type": "scripture",
+    "source_family": "raelian",
+    "relation_to_wheel": "foundational",
+    "stance": "supportive"
+  },
+  {
+    "id": "mazzaroth-dot-com",
+    "title": "Mazzaroth | The Alpha and the Omega",
+    "source_type": "encyclopedia",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "mazzaroth-rolleston",
+    "title": "Mazzaroth; or, The constellations",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "parzival",
+    "title": "Parzival",
+    "source_type": "myth_text",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "pillar-of-enoch-dot-com",
+    "title": "The Pillar of Enoch",
+    "source_type": "encyclopedia",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "rael-dot-org",
+    "title": "Raelian Movement | The true origin of life on Earth: Extraterrestrials created us in their image",
+    "source_type": "encyclopedia",
+    "source_family": "raelian",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "science-after-babel",
+    "title": "Science After Babel",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "supportive"
+  },
+  {
+    "id": "sefaria",
+    "title": "Sefaria: A Living Library of Torah",
+    "source_type": "encyclopedia",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "signature-in-the-cell",
+    "title": "Signature in the Cell: DNA and the Evidence for Intelligent Design",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "supportive"
+  },
+  {
+    "id": "tanakh",
+    "title": "Tanakh",
+    "source_type": "scripture",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-bible-is-not-a-sacred-book",
+    "title": "The Bible Is Not a Sacred Book — The Great Deception",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-book-which-tells-the-truth",
+    "title": "The Book Which Tells The Truth",
+    "source_type": "scripture",
+    "source_family": "raelian",
+    "relation_to_wheel": "foundational",
+    "stance": "supportive",
+    "library_slug": "the-book-which-tells-the-truth"
+  },
+  {
+    "id": "the-chaldean-account-of-genesis",
+    "title": "The Chaldean Account of Genesis",
+    "source_type": "commentary",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-church-of-jesus-latter-day-saints-scriptures",
+    "title": "The Church of Jesus of Latter-Day Saints: Scriptures",
+    "source_type": "encyclopedia",
+    "source_family": "mormon",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-collection-of-divine-messages-of-cai-dai",
+    "title": "The Collection of Divine Messages of the Cao Đài Religion of God",
+    "source_type": "scripture",
+    "source_family": "caodaist",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-coming-of-the-gods",
+    "title": "The Coming Of The Gods",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "the-devils-delusion",
+    "title": "The Devil's Delusion: Atheism and Its Scientific Pretension",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "critical_context",
+    "stance": "critical"
+  },
+  {
+    "id": "the-electronic-text-corpus-of-sumerian-literature",
+    "title": "The Electronic Text Corpus of Sumerian Literature",
+    "source_type": "encyclopedia",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-eridu-genesis",
+    "title": "The Eridu Genesis",
+    "source_type": "myth_text",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-gospels-in-the-stars",
+    "title": "The Gospel in the Stars",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-human-history-mistake",
+    "title": "The Human History Mistake: The Neanderthals and other Inventions of the Evolution and Earth Sciences",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "critical_context",
+    "stance": "critical"
+  },
+  {
+    "id": "the-kabbalah-law-and-mysticism-in-the-jewish-tradition",
+    "title": "The Kabbalah: Law and Mysticism in the Jewish Tradition",
+    "source_type": "commentary",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-moon-outpost-of-the-gods",
+    "title": "The Moon: Outpost of the Gods",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "the-naked-bible",
+    "title": "The Naked Bible",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-possibility-of-an-island",
+    "title": "The Possibility of an Island",
+    "source_type": "fiction",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-revelation-of-the-pyramid",
+    "title": "The Revelation of the Pyramids",
+    "source_type": "documentary",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-sacred-city",
+    "title": "The Sacred City",
+    "source_type": "documentary",
+    "source_family": "supplementary",
+    "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-scars-of-eden",
+    "title": "The Scars of Eden: Has humanity confused the idea of God with memories of ET contact?",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "the-sky-people",
+    "title": "The Sky People",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "the-zohar-pritzker",
+    "title": "The Zohar: Pritzker Edition",
+    "source_type": "commentary",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "those-gods-who-made-heaven-and-earth",
+    "title": "Those Gods Who Made Heaven and Earth: The Evidence for Alien Visitors to Earth before the Dawn of History",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  },
+  {
+    "id": "wonders-in-the-sky",
+    "title": "Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "supplementary",
+    "stance": "supportive"
+  }
+]
