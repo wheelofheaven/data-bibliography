@@ -142,7 +142,8 @@
     "source_type": "scripture",
     "source_family": "raelian",
     "relation_to_wheel": "foundational",
-    "stance": "supportive"
+    "stance": "supportive",
+    "library_slug": "extraterrestrials-took-me-to-their-planet"
   },
   {
     "id": "fingerprints-of-the-gods",
@@ -166,7 +167,8 @@
     "source_type": "myth_text",
     "source_family": "western_esoteric",
     "relation_to_wheel": "comparative_primary",
-    "stance": "neutral"
+    "stance": "neutral",
+    "library_slug": "corpus-hermeticum"
   },
   {
     "id": "internet-sacred-text-archive",
@@ -311,7 +313,8 @@
     "source_type": "commentary",
     "source_family": "mesopotamian",
     "relation_to_wheel": "comparative_primary",
-    "stance": "neutral"
+    "stance": "neutral",
+    "library_slug": "chaldean-account-of-genesis"
   },
   {
     "id": "the-church-of-jesus-latter-day-saints-scriptures",
