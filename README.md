@@ -1,6 +1,6 @@
 # Wheel of Heaven Bibliography
 
-Structured bibliography records for [Wheel of Heaven](https://www.wheelofheaven.io) — every source used or cited across the project, with the source-program metadata that travels with it (authority, stance, relation to the canon, licensing).
+Structured bibliography records for [Wheel of Heaven](https://www.wheelofheaven.world) — every source used or cited across the project, with the source-program metadata that travels with it (authority, stance, relation to the canon, licensing).
 
 Powers `/sources/` on the site and inline citations from `data-content/` wiki and article entries.
 
