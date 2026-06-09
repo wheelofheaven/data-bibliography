@@ -1,0 +1,23 @@
+{
+  "id": "vidal-naquet-atlantis-story",
+  "title": "The Atlantis Story: A Short History of Plato's Myth",
+  "description": {
+    "en": "Pierre Vidal-Naquet's 2007 study (University of Exeter Press; original French *L'Atlantide: Petite histoire d'un mythe platonicien*, 2005) is the standard contemporary scholarly treatment of the *Timaeus*/*Critias* Atlantis tradition and its long history of literal-historical reinterpretation. Vidal-Naquet's position is sceptical of any historical Atlantis: he reads the dialogues as Platonic political philosophy in mythological form rather than as preserving any genuine ancient tradition. The work is the principal mainstream scholarly source against which alternative-archaeological Atlantis identifications (the mid-Atlantic, the Mediterranean, Mauritania's Richat Structure) are positioned."
+  },
+  "authored_by": [
+    "Pierre Vidal-Naquet"
+  ],
+  "topics": [
+    "Atlantis",
+    "Plato",
+    "Antediluvian",
+    "Mythography"
+  ],
+  "stance": "critical",
+  "source_type": "academic_monograph",
+  "publish_date": "2007",
+  "source_family": "criticism",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.exeterpress.co.uk/products/the-atlantis-story"
+}

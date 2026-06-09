@@ -1,0 +1,24 @@
+{
+  "id": "cataclysm-allan-delair",
+  "title": "Cataclysm! Compelling Evidence of a Cosmic Catastrophe in 9500 B.C.",
+  "description": {
+    "en": "D. S. Allan and J. B. Delair's 1995 work (Bear & Company) is the principal early articulation of the late-Pleistocene cosmic-catastrophe hypothesis that subsequent catastrophist literature has built on. Allan and Delair marshal geological, palaeontological, and mythological evidence for a cosmic impact event at approximately 9500 BCE producing global extinctions, sea-level rise, and the climatic conditions of the early Holocene. The work substantially predates the Firestone et al. 2007 Younger Dryas Boundary research and provides the broader catastrophist framework within which subsequent work has been positioned."
+  },
+  "authored_by": [
+    "D. S. Allan",
+    "J. B. Delair"
+  ],
+  "topics": [
+    "Catastrophism",
+    "Younger Dryas",
+    "Antediluvian",
+    "Late Pleistocene"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1995",
+  "source_family": "archaeoastronomy",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.amazon.com/Cataclysm-Compelling-Evidence-Cosmic-Catastrophe/dp/187918142X"
+}

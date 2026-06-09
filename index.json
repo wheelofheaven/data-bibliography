@@ -16,11 +16,35 @@
     "stance": "critical"
   },
   {
+    "id": "america-before",
+    "title": "America Before: The Key to Earth's Lost Civilization",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "ancient-apocalypse",
     "title": "Ancient Apocalypse",
     "source_type": "documentary",
     "source_family": "supplementary",
     "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "annales-veteris-testamenti",
+    "title": "Annales Veteris Testamenti",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "atra-hasis-lambert-millard",
+    "title": "Atra-ḫasīs: The Babylonian Story of the Flood",
+    "source_type": "academic_monograph",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -48,6 +72,14 @@
     "stance": "neutral"
   },
   {
+    "id": "before-the-muses",
+    "title": "Before the Muses: An Anthology of Akkadian Literature",
+    "source_type": "academic_monograph",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "book-of-abraham",
     "title": "Book of Abraham",
     "source_type": "scripture",
@@ -70,6 +102,14 @@
     "source_type": "scripture",
     "source_family": "mormon",
     "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "cataclysm-allan-delair",
+    "title": "Cataclysm! Compelling Evidence of a Cosmic Catastrophe in 9500 B.C.",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
   {
@@ -154,6 +194,22 @@
     "stance": "neutral"
   },
   {
+    "id": "firestone-pnas-2007",
+    "title": "Evidence for an Extraterrestrial Impact 12,900 Years Ago",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "gobekli-tepe-schmidt",
+    "title": "Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "hamlets-mill",
     "title": "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth",
     "source_type": "academic_monograph",
@@ -219,6 +275,14 @@
     "stance": "supportive"
   },
   {
+    "id": "magicians-of-the-gods",
+    "title": "Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilisation",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "mazzaroth-dot-com",
     "title": "Mazzaroth | The Alpha and the Omega",
     "source_type": "encyclopedia",
@@ -231,6 +295,38 @@
     "title": "Mazzaroth; or, The constellations",
     "source_type": "academic_monograph",
     "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "mesopotamian-chronicles",
+    "title": "Mesopotamian Chronicles",
+    "source_type": "academic_monograph",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "myth-of-the-eternal-return",
+    "title": "The Myth of the Eternal Return",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "natufian-culture-in-the-levant",
+    "title": "The Natufian Culture in the Levant",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "origins-of-the-worlds-mythologies",
+    "title": "The Origins of the World's Mythologies",
+    "source_type": "academic_monograph",
+    "source_family": "neo_euhemerism",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
@@ -251,12 +347,36 @@
     "stance": "neutral"
   },
   {
+    "id": "principles-of-geology",
+    "title": "Principles of Geology",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "pseudodoxia-epidemica",
+    "title": "Pseudodoxia Epidemica",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "rael-dot-org",
     "title": "Raelian Movement | The true origin of life on Earth: Extraterrestrials created us in their image",
     "source_type": "encyclopedia",
     "source_family": "raelian",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "reliquiae-diluvianae",
+    "title": "Reliquiae Diluvianae",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "science-after-babel",
@@ -288,6 +408,14 @@
     "source_type": "scripture",
     "source_family": "abrahamic",
     "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "telluris-theoria-sacra",
+    "title": "Telluris Theoria Sacra (The Sacred Theory of the Earth)",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
   {
@@ -453,12 +581,36 @@
     "stance": "neutral"
   },
   {
+    "id": "theory-of-the-earth",
+    "title": "Theory of the Earth",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "those-gods-who-made-heaven-and-earth",
     "title": "Those Gods Who Made Heaven and Earth: The Evidence for Alien Visitors to Earth before the Dawn of History",
     "source_type": "academic_monograph",
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "vidal-naquet-atlantis-story",
+    "title": "The Atlantis Story: A Short History of Plato's Myth",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "critical"
+  },
+  {
+    "id": "voices-of-the-rocks",
+    "title": "Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "wonders-in-the-sky",
