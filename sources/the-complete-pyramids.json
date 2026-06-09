@@ -1,0 +1,23 @@
+{
+  "id": "the-complete-pyramids",
+  "title": "The Complete Pyramids: Solving the Ancient Mysteries",
+  "description": {
+    "en": "Mark Lehner's 1997 Thames & Hudson reference work is the standard accessible scholarly treatment of the entire Egyptian pyramid corpus — from the third-dynasty step pyramid of Djoser through the Middle Kingdom decline. Lehner, founder of Ancient Egypt Research Associates (AERA), has led the Giza Plateau Mapping Project since the 1980s. The work synthesises the documented record of pyramid construction methods, workforce organisation, quarrying, transport, and architectural development across the Old Kingdom corpus, and remains the principal one-volume scholarly access point."
+  },
+  "authored_by": [
+    "Mark Lehner"
+  ],
+  "topics": [
+    "Egyptian Pyramids",
+    "Giza",
+    "Egyptology",
+    "Ancient Builders"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1997",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://thamesandhudson.com/the-complete-pyramids-9780500285473"
+}

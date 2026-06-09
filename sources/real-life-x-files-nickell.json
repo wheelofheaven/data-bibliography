@@ -1,0 +1,22 @@
+{
+  "id": "real-life-x-files-nickell",
+  "title": "Real-Life X-Files: Investigating the Paranormal",
+  "description": {
+    "en": "Joe Nickell's 2001 University Press of Kentucky work — the principal accessible articulation of Nickell's substantive paranormal investigation methodology, with substantial crop circle content. Nickell substantially documents the systematic skeptical investigation of paranormal claims including crop circles, UFO sightings, ghost cases, and broader paranormal phenomena. The work substantially articulates the methodological skeptical framework within which mainstream-scientific engagement with crop circles operates."
+  },
+  "authored_by": [
+    "Joe Nickell"
+  ],
+  "topics": [
+    "Crop Circles",
+    "Skeptical Inquiry",
+    "Paranormal Investigation"
+  ],
+  "stance": "critical",
+  "source_type": "academic_monograph",
+  "publish_date": "2001",
+  "source_family": "criticism",
+  "relation_to_wheel": "critical_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.kentuckypress.com/9780813124131/real-life-x-files/"
+}
