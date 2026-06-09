@@ -1,0 +1,23 @@
+{
+  "id": "theory-of-the-earth",
+  "title": "Theory of the Earth",
+  "description": {
+    "en": "James Hutton's 1788 paper (expanded to a two-volume work in 1795) is the founding text of geological uniformitarianism — the principle that the same physical processes operating today have, over deep time, produced the present-day geological record. Hutton's famous formulation that the geological record displays 'no vestige of a beginning, no prospect of an end' is the conceptual displacement of the early-modern biblical-chronological framework by what would become the geological consensus. The displacement of Ussher's 4004 BCE chronology by Hutton's deep-time geology is the principal nineteenth-century transformation of the natural-philosophical context for the antediluvian world."
+  },
+  "authored_by": [
+    "James Hutton"
+  ],
+  "topics": [
+    "Geology",
+    "Deep Time",
+    "Uniformitarianism",
+    "Antediluvian"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1788",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://archive.org/details/theoryofearthwit01hutt"
+}

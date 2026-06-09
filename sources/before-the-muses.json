@@ -1,0 +1,23 @@
+{
+  "id": "before-the-muses",
+  "title": "Before the Muses: An Anthology of Akkadian Literature",
+  "description": {
+    "en": "Benjamin R. Foster's anthology (3rd edition, 2005; CDL Press) is the standard comprehensive English translation of the Akkadian literary corpus, including the *Atra-ḫasīs* Epic, the Standard Babylonian *Gilgamesh*, the *Enūma Eliš*, the *Descent of Ishtar*, the Babylonian theodicies, and the broader courtly, wisdom, and ritual literature. Foster's Tablet XI translation of the *Gilgamesh* flood narrative is the principal scholarly access point for the Mesopotamian flood traditions that parallel Genesis 6–9 and the broader antediluvian material."
+  },
+  "authored_by": [
+    "Benjamin R. Foster"
+  ],
+  "topics": [
+    "Antediluvian",
+    "Flood",
+    "Gilgamesh",
+    "Akkadian Literature"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2005",
+  "source_family": "mesopotamian",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.cdlpress.com/before-the-muses/"
+}

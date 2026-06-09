@@ -1,0 +1,23 @@
+{
+  "id": "principles-of-geology",
+  "title": "Principles of Geology",
+  "description": {
+    "en": "Charles Lyell's three-volume *Principles of Geology* (1830–1833) consolidated Huttonian uniformitarianism as the dominant nineteenth-century geological framework. Lyell's exhaustive marshalling of evidence — for the slow operation of geological processes, for the antiquity of the Earth, against catastrophist readings of the stratigraphic record — produced the geological consensus against which the biblical Flood as a historical event becomes problematic. The work was a principal influence on Darwin's *Origin of Species* and the principal scientific source against which subsequent diluvialist and catastrophist arguments have been positioned."
+  },
+  "authored_by": [
+    "Charles Lyell"
+  ],
+  "topics": [
+    "Geology",
+    "Uniformitarianism",
+    "Antediluvian",
+    "Nineteenth-Century Science"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1830",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://archive.org/details/principlesgeolo01lyelgoog"
+}
