@@ -1,0 +1,23 @@
+{
+  "id": "prehistoric-avebury",
+  "title": "Prehistoric Avebury",
+  "description": {
+    "en": "Aubrey Burl's 1979 Yale University Press work (revised edition 2002) — the principal accessible scholarly treatment of the substantial Avebury Henge complex, the largest stone circle in the world. Burl substantially documents the substantial Late Neolithic and Early Bronze Age monumental landscape of the Avebury region (Avebury Henge; Silbury Hill; the West Kennet Long Barrow; the Sanctuary; the broader monumental complex), providing the substantive context for the substantial Wiltshire crop circle concentration that operates within the broader prehistoric monumental landscape."
+  },
+  "authored_by": [
+    "Aubrey Burl"
+  ],
+  "topics": [
+    "Avebury",
+    "Wiltshire",
+    "British Prehistory",
+    "Neolithic"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1979",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://yalebooks.yale.edu/book/9780300090871/"
+}

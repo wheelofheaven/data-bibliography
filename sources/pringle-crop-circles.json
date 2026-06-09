@@ -1,0 +1,22 @@
+{
+  "id": "pringle-crop-circles",
+  "title": "Crop Circles: The Greatest Mystery of Modern Times",
+  "description": {
+    "en": "Lucy Pringle's 1999 Thorsons work — the principal accessible 1990s synthesis of crop circle research, written by the founding researcher of the substantial Pringle Crop Circle Archive (one of the principal photographic and case databases for the contemporary phenomenon). Pringle has remained active in the field since the late 1980s and has produced substantial subsequent photographic documentation and case-engagement work."
+  },
+  "authored_by": [
+    "Lucy Pringle"
+  ],
+  "topics": [
+    "Crop Circles",
+    "Photographic Documentation",
+    "1990s Research"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1999",
+  "source_family": "archaeoastronomy",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.lucypringle.co.uk/"
+}

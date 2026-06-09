@@ -40,11 +40,27 @@
     "stance": "neutral"
   },
   {
+    "id": "atlantis-antediluvian-world",
+    "title": "Atlantis: The Antediluvian World",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "atra-hasis-lambert-millard",
     "title": "Atra-ḫasīs: The Babylonian Story of the Flood",
     "source_type": "academic_monograph",
     "source_family": "mesopotamian",
     "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "avebury-biography-of-a-landscape",
+    "title": "Avebury: The Biography of a Landscape",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -113,11 +129,43 @@
     "stance": "neutral"
   },
   {
+    "id": "chariots-of-the-gods",
+    "title": "Chariots of the Gods? Unsolved Mysteries of the Past",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "critical_context",
+    "stance": "critical"
+  },
+  {
+    "id": "circular-evidence",
+    "title": "Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "creators-the-past",
     "title": "Creators: The Past",
     "source_type": "documentary",
     "source_family": "supplementary",
     "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "crop-circles-signs-of-contact",
+    "title": "Crop Circles: Signs of Contact",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "deadly-voyager",
+    "title": "Deadly Voyager: The Ancient Comet Strike That Changed Earth and Human History",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -137,6 +185,14 @@
     "stance": "neutral"
   },
   {
+    "id": "dietrich-gobekli-antiquity-2012",
+    "title": "The role of cult and feasting in the emergence of Neolithic communities: New evidence from Göbekli Tepe, south-eastern Turkey",
+    "source_type": "academic_article",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "divine-signposts",
     "title": "Divine Signposts",
     "source_type": "scripture",
@@ -151,6 +207,14 @@
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "edgar-cayce-on-atlantis",
+    "title": "Edgar Cayce on Atlantis",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "enlil-and-ninlil-the-begetting-of-nanna",
@@ -202,6 +266,30 @@
     "stance": "neutral"
   },
   {
+    "id": "giza-and-the-pyramids",
+    "title": "Giza and the Pyramids: The Definitive History",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "giza-power-plant",
+    "title": "The Giza Power Plant: Technologies of Ancient Egypt",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "glimpses-of-other-realities",
+    "title": "Glimpses of Other Realities",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "gobekli-tepe-schmidt",
     "title": "Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia",
     "source_type": "academic_monograph",
@@ -218,6 +306,22 @@
     "stance": "neutral"
   },
   {
+    "id": "haselhoff-physiologia-plantarum-2001",
+    "title": "Opinions and Comments on Levengood WC, Talbott NP (1999) Dispersion of Energies in Worldwide Crop Formations",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "hengeworld",
+    "title": "Hengeworld",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "hermetica",
     "title": "Hermetica",
     "source_type": "myth_text",
@@ -225,6 +329,14 @@
     "relation_to_wheel": "comparative_primary",
     "stance": "neutral",
     "library_slug": "corpus-hermeticum"
+  },
+  {
+    "id": "inca-architecture-ollantaytambo",
+    "title": "Inca Architecture and Construction at Ollantaytambo",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
   },
   {
     "id": "internet-sacred-text-archive",
@@ -240,6 +352,14 @@
     "source_type": "documentary",
     "source_family": "abrahamic",
     "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "journal-de-merer-tallet",
+    "title": "Les papyrus de la Mer Rouge I: Le \"Journal de Merer\"",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -275,6 +395,22 @@
     "stance": "supportive"
   },
   {
+    "id": "levengood-physiologia-plantarum-1994",
+    "title": "Anatomical Anomalies in Crop Formation Plants",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "lost-continent-of-mu",
+    "title": "The Lost Continent of Mu",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "magicians-of-the-gods",
     "title": "Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilisation",
     "source_type": "academic_monograph",
@@ -307,11 +443,27 @@
     "stance": "neutral"
   },
   {
+    "id": "miracles-and-the-pulp-press",
+    "title": "Miracles and the Pulp Press during the English Revolution",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "myth-of-the-eternal-return",
     "title": "The Myth of the Eternal Return",
     "source_type": "academic_monograph",
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "nash-sarsen-megaliths-2020",
+    "title": "Origins of the sarsen megaliths at Stonehenge",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -321,6 +473,14 @@
     "source_family": "archaeoastronomy",
     "relation_to_wheel": "scientific_context",
     "stance": "neutral"
+  },
+  {
+    "id": "nickell-levengood-skeptical-inquirer-1996",
+    "title": "Levengood's Crop-Circle Plant Research",
+    "source_type": "academic_article",
+    "source_family": "criticism",
+    "relation_to_wheel": "critical_context",
+    "stance": "critical"
   },
   {
     "id": "origins-of-the-worlds-mythologies",
@@ -347,11 +507,35 @@
     "stance": "neutral"
   },
   {
+    "id": "prehistoric-avebury",
+    "title": "Prehistoric Avebury",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "principles-of-geology",
     "title": "Principles of Geology",
     "source_type": "academic_monograph",
     "source_family": "science",
     "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "pringle-crop-circles",
+    "title": "Crop Circles: The Greatest Mystery of Modern Times",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "providence-in-early-modern-england",
+    "title": "Providence in Early Modern England",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
   {
@@ -371,12 +555,28 @@
     "stance": "supportive"
   },
   {
+    "id": "real-life-x-files-nickell",
+    "title": "Real-Life X-Files: Investigating the Paranormal",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "critical_context",
+    "stance": "critical"
+  },
+  {
     "id": "reliquiae-diluvianae",
     "title": "Reliquiae Diluvianae",
     "source_type": "academic_monograph",
     "source_family": "science",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
+  },
+  {
+    "id": "round-in-circles-schnabel",
+    "title": "Round in Circles: Physicists, Poltergeists, Pranksters, and the Secret History of the Cropwatchers",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "critical"
   },
   {
     "id": "science-after-babel",
@@ -395,12 +595,36 @@
     "stance": "neutral"
   },
   {
+    "id": "serpent-in-the-sky",
+    "title": "Serpent in the Sky: The High Wisdom of Ancient Egypt",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "signature-in-the-cell",
     "title": "Signature in the Cell: DNA and the Evidence for Intelligent Design",
     "source_type": "academic_monograph",
     "source_family": "science",
     "relation_to_wheel": "scientific_context",
     "stance": "supportive"
+  },
+  {
+    "id": "statues-that-walked",
+    "title": "The Statues That Walked: Unraveling the Mystery of Easter Island",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "stonehenge-parker-pearson",
+    "title": "Stonehenge: Exploring the Greatest Stone Age Mystery",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
   },
   {
     "id": "tanakh",
@@ -415,6 +639,14 @@
     "title": "Telluris Theoria Sacra (The Sacred Theory of the Earth)",
     "source_type": "academic_monograph",
     "source_family": "science",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-12th-planet",
+    "title": "The 12th Planet",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
@@ -453,6 +685,14 @@
     "stance": "neutral"
   },
   {
+    "id": "the-circles-effect-meaden",
+    "title": "The Circles Effect and Its Mysteries",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "the-collection-of-divine-messages-of-cai-dai",
     "title": "The Collection of Divine Messages of the Cao Đài Religion of God",
     "source_type": "scripture",
@@ -467,6 +707,22 @@
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "the-complete-pyramids",
+    "title": "The Complete Pyramids: Solving the Ancient Mysteries",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-deepening-complexity-crop-circles",
+    "title": "The Deepening Complexity of Crop Circles: Scientific Research and Urban Legends",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
   },
   {
     "id": "the-devils-delusion",
@@ -490,6 +746,14 @@
     "source_type": "myth_text",
     "source_family": "mesopotamian",
     "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "the-field-guide-crop-circle-making",
+    "title": "The Field Guide: The Art, History and Philosophy of Crop Circle Making",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
   {
@@ -595,6 +859,14 @@
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "underworld-hancock",
+    "title": "Underworld: The Mysterious Origins of Civilization",
+    "source_type": "academic_monograph",
+    "source_family": "archaeoastronomy",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "vidal-naquet-atlantis-story",
