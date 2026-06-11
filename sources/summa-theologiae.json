@@ -1,0 +1,23 @@
+{
+  "id": "summa-theologiae",
+  "title": "Summa Theologiae",
+  "description": {
+    "en": "Thomas Aquinas's thirteenth-century systematic theology; questions 63–64 of the First Part treat the angels and their fall, elaborating the developed scholastic Lucifer doctrine. The corpus cites it as the medieval consolidation of the cosmic-Lucifer synthesis."
+  },
+  "authored_by": [
+    "Thomas Aquinas"
+  ],
+  "topics": [
+    "Aquinas",
+    "Lucifer",
+    "Scholasticism",
+    "Angelology"
+  ],
+  "stance": "neutral",
+  "source_type": "commentary",
+  "publish_date": "1274",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.newadvent.org/summa/"
+}

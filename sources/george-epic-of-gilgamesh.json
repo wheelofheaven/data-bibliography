@@ -1,0 +1,23 @@
+{
+  "id": "george-epic-of-gilgamesh",
+  "title": "The Epic of Gilgamesh: The Babylonian Epic Poem",
+  "description": {
+    "en": "Andrew George's 1999 Penguin Classics translation — the standard scholarly English edition of the Standard Babylonian Gilgamesh and related Akkadian/Sumerian texts, including the Enkidu narrative the corpus reads comparatively against the Eve/civilization material."
+  },
+  "authored_by": [
+    "Andrew George (trans.)"
+  ],
+  "topics": [
+    "Gilgamesh",
+    "Enkidu",
+    "Akkadian Literature",
+    "Comparative Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "1999",
+  "source_family": "mesopotamian",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.penguin.co.uk/books/35192/the-epic-of-gilgamesh"
+}

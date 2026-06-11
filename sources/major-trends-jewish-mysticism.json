@@ -1,0 +1,23 @@
+{
+  "id": "major-trends-jewish-mysticism",
+  "title": "Major Trends in Jewish Mysticism",
+  "description": {
+    "en": "Gershom Scholem's 1941 foundational study of Kabbalah — the work that established the modern academic study of Jewish mysticism, treating the Zoharic and Lurianic traditions including the Serpent/Sammael material and the Adam Kadmon cosmology the corpus engages."
+  },
+  "authored_by": [
+    "Gershom Scholem"
+  ],
+  "topics": [
+    "Kabbalah",
+    "Jewish Mysticism",
+    "Zohar",
+    "Adam Kadmon"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1941",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.schocken.com/"
+}

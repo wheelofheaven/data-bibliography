@@ -1,0 +1,23 @@
+{
+  "id": "metamorphoses",
+  "title": "Metamorphoses",
+  "description": {
+    "en": "Ovid's narrative poem (c. 8 CE) compiling Greco-Roman mythology, including the Phaethon falling-figure narrative and the ages-of-man sequence. Primary source for the falling-figure and golden-age comparative material the corpus engages around Lucifer."
+  },
+  "authored_by": [
+    "Ovid"
+  ],
+  "topics": [
+    "Ovid",
+    "Phaethon",
+    "Greco-Roman Mythology",
+    "Falling Figure"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "8",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/21765"
+}

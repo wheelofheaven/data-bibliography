@@ -1,0 +1,23 @@
+{
+  "id": "the-satanic-bible",
+  "title": "The Satanic Bible",
+  "description": {
+    "en": "Anton LaVey's 1969 foundational text of LaVeyan Satanism — a secular-humanist philosophy using Lucifer/Satan iconography symbolically rather than theologically. The corpus registers it as a significant cultural appropriation of the Lucifer name without endorsing it as an accurate reading of the figure."
+  },
+  "authored_by": [
+    "Anton LaVey"
+  ],
+  "topics": [
+    "Lucifer",
+    "Satanism",
+    "Occult",
+    "Contemporary Religion"
+  ],
+  "stance": "neutral",
+  "source_type": "manifesto",
+  "publish_date": "1969",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "critical_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.churchofsatan.com/"
+}

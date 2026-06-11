@@ -1,0 +1,24 @@
+{
+  "id": "black-green-mesopotamia",
+  "title": "Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary",
+  "description": {
+    "en": "Jeremy Black and Anthony Green's 1992 British Museum Press reference — the standard illustrated dictionary of Mesopotamian iconography, including the chaos-dragon (Tiamat, mušḫuššu) and wisdom-serpent (Ningishzida) figures the corpus uses to distinguish the chaos-serpent and wisdom-serpent clusters."
+  },
+  "authored_by": [
+    "Jeremy Black",
+    "Anthony Green"
+  ],
+  "topics": [
+    "Mesopotamia",
+    "Serpent",
+    "Iconography",
+    "Comparative Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1992",
+  "source_family": "mesopotamian",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.britishmuseum.org/"
+}

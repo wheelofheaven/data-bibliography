@@ -1,0 +1,23 @@
+{
+  "id": "alphabet-of-ben-sira",
+  "title": "The Alphabet of Ben Sira",
+  "description": {
+    "en": "A medieval Hebrew satirical compilation (c. 8th–10th century CE), the foundational text for the Lilith-as-Adam's-first-wife narrative. The corpus registers the Lilith tradition as a medieval folkloric elaboration not present in the Raëlian source material."
+  },
+  "authored_by": [
+    "Anonymous (medieval)"
+  ],
+  "topics": [
+    "Lilith",
+    "Jewish Folklore",
+    "Adam and Eve",
+    "Medieval Judaism"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "900",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.jewishvirtuallibrary.org/the-alphabet-of-ben-sira"
+}

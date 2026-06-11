@@ -1,0 +1,23 @@
+{
+  "id": "charles-apocrypha-pseudepigrapha",
+  "title": "The Apocrypha and Pseudepigrapha of the Old Testament",
+  "description": {
+    "en": "R. H. Charles's 1913 two-volume Oxford edition — the foundational English collection of Second Temple Jewish literature including 1 Enoch, Jubilees, and the Life of Adam and Eve, which develop the Watchers tradition and the early Serpent-as-devil identifications the corpus engages."
+  },
+  "authored_by": [
+    "R. H. Charles (ed.)"
+  ],
+  "topics": [
+    "Second Temple Judaism",
+    "Watchers",
+    "Pseudepigrapha",
+    "Serpent"
+  ],
+  "stance": "neutral",
+  "source_type": "scripture",
+  "publish_date": "1913",
+  "source_family": "second_temple",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://archive.org/details/apocryphapseudep02charuoft"
+}

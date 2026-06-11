@@ -1,0 +1,23 @@
+{
+  "id": "cain-a-mystery",
+  "title": "Cain: A Mystery",
+  "description": {
+    "en": "Lord Byron's 1821 closet drama presenting a sympathetic Lucifer who offers Cain a cosmological vision challenging the orthodox account, including a prior-worlds tradition. A principal Romantic-era development of Lucifer as sympathetic teacher-figure, structurally adjacent to the corpus's reading of Lucifer's pedagogical role."
+  },
+  "authored_by": [
+    "Lord Byron"
+  ],
+  "topics": [
+    "Lucifer",
+    "Cain",
+    "Romanticism",
+    "English Literature"
+  ],
+  "stance": "neutral",
+  "source_type": "fiction",
+  "publish_date": "1821",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/8909"
+}

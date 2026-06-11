@@ -1,0 +1,23 @@
+{
+  "id": "tedlock-popol-vuh",
+  "title": "Popol Vuh: The Mayan Book of the Dawn of Life",
+  "description": {
+    "en": "Dennis Tedlock's 1996 translation of the Quiché Maya Popol Vuh, including the successive first-human creation attempts (mud, wood, corn). The standard English source for the Maya creation tradition the corpus reads comparatively against the seven-creator-team picture."
+  },
+  "authored_by": [
+    "Dennis Tedlock (trans.)"
+  ],
+  "topics": [
+    "Maya Mythology",
+    "Popol Vuh",
+    "Creation",
+    "Comparative Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "1996",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.simonandschuster.com/books/Popol-Vuh/Dennis-Tedlock/9780684818450"
+}

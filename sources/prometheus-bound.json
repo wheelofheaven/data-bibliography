@@ -1,0 +1,23 @@
+{
+  "id": "prometheus-bound",
+  "title": "Prometheus Bound",
+  "description": {
+    "en": "Aeschylus's tragedy (c. 5th century BCE) presenting Prometheus as benefactor of humanity wrongly punished by a tyrannical Zeus for transmitting fire and the civilizational arts. The classical primary source for the Prometheus parallel the corpus reads as preserving fragmentary memory of the Lucifer-faction's knowledge-transmission role."
+  },
+  "authored_by": [
+    "Aeschylus"
+  ],
+  "topics": [
+    "Prometheus",
+    "Greek Tragedy",
+    "Culture Hero",
+    "Lucifer"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "-460",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/27673"
+}

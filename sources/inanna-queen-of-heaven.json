@@ -1,0 +1,24 @@
+{
+  "id": "inanna-queen-of-heaven",
+  "title": "Inanna: Queen of Heaven and Earth",
+  "description": {
+    "en": "Diane Wolkstein and Samuel Noah Kramer's 1983 translation and commentary on the Sumerian Inanna cycle, including Inanna's descent to the underworld. The principal accessible English source for the descent-and-restoration narrative the corpus reads comparatively against the cosmic-fall material."
+  },
+  "authored_by": [
+    "Diane Wolkstein",
+    "Samuel Noah Kramer"
+  ],
+  "topics": [
+    "Inanna",
+    "Sumerian Mythology",
+    "Descent Myth",
+    "Comparative Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "1983",
+  "source_family": "mesopotamian",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.harpercollins.com/products/inanna-queen-of-heaven-and-earth-diane-wolkstein"
+}

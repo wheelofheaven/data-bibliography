@@ -1,0 +1,23 @@
+{
+  "id": "paradise-lost",
+  "title": "Paradise Lost",
+  "description": {
+    "en": "John Milton's 1667 epic in blank verse retelling the fall of Lucifer, the temptation in Eden, and humanity's expulsion. The single most influential post-biblical literary engagement with Lucifer in Western tradition; Milton's charismatic, sympathetic Lucifer shaped all subsequent Romantic engagement. The corpus reads it as the literary antecedent of the figure's moral rehabilitation."
+  },
+  "authored_by": [
+    "John Milton"
+  ],
+  "topics": [
+    "Lucifer",
+    "Eden",
+    "English Literature",
+    "Fall of Man"
+  ],
+  "stance": "neutral",
+  "source_type": "fiction",
+  "publish_date": "1667",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/26"
+}

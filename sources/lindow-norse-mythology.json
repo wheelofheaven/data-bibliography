@@ -1,0 +1,23 @@
+{
+  "id": "lindow-norse-mythology",
+  "title": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
+  "description": {
+    "en": "John Lindow's 2001 Oxford University Press reference on Norse mythology, including the Ask-and-Embla first-human narrative the corpus reads comparatively against Adam and Eve."
+  },
+  "authored_by": [
+    "John Lindow"
+  ],
+  "topics": [
+    "Norse Mythology",
+    "Ask and Embla",
+    "Creation",
+    "Comparative Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2001",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://global.oup.com/academic/product/norse-mythology-9780195153828"
+}

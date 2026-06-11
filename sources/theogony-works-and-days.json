@@ -1,0 +1,23 @@
+{
+  "id": "theogony-works-and-days",
+  "title": "Theogony and Works and Days",
+  "description": {
+    "en": "Hesiod's two foundational Greek poems (c. 700 BCE) preserving the Prometheus narrative (the fire-theft and the punishment) and the myth of the Golden Race and the ages of decline. Primary source for the Greek culture-hero and golden-age traditions the corpus reads comparatively against the Lucifer and antediluvian material."
+  },
+  "authored_by": [
+    "Hesiod"
+  ],
+  "topics": [
+    "Hesiod",
+    "Prometheus",
+    "Golden Age",
+    "Greek Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "-700",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/348"
+}

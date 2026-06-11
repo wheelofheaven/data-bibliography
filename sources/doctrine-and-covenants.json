@@ -1,0 +1,23 @@
+{
+  "id": "doctrine-and-covenants",
+  "title": "Doctrine and Covenants",
+  "description": {
+    "en": "The Latter-day Saint scriptural compilation of revelations to Joseph Smith and successors, source of the Adam-as-Michael (Adam-ondi-Ahman) doctrine the corpus registers but does not adopt. The corpus reads Joseph Smith within the broader prophetic tradition while distinguishing the specific Adam-as-Michael identification."
+  },
+  "authored_by": [
+    "Joseph Smith"
+  ],
+  "topics": [
+    "Adam",
+    "Latter-day Saints",
+    "Joseph Smith",
+    "Restorationism"
+  ],
+  "stance": "neutral",
+  "source_type": "scripture",
+  "publish_date": "1835",
+  "source_family": "mormon",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doniger-hindu-myths",
+  "title": "Hindu Myths: A Sourcebook",
+  "description": {
+    "en": "Wendy Doniger's 1975 Penguin Classics anthology of Hindu mythological texts in translation, including the Manu and flood traditions the corpus reads comparatively against the Adam and Noah material."
+  },
+  "authored_by": [
+    "Wendy Doniger"
+  ],
+  "topics": [
+    "Hindu Mythology",
+    "Manu",
+    "Flood",
+    "Comparative Mythology"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "1975",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.penguin.co.uk/books/35361/hindu-myths"
+}
