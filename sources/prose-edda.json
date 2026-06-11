@@ -1,0 +1,23 @@
+{
+  "id": "prose-edda",
+  "title": "The Prose Edda",
+  "description": {
+    "en": "Snorri Sturluson's 13th-century systematic account of Norse mythology (Jesse Byock's Penguin translation), including the *Gylfaginning* treatment of Yggdrasil. The principal secondary primary source for the Norse cosmic-tree tradition."
+  },
+  "authored_by": [
+    "Snorri Sturluson"
+  ],
+  "topics": [
+    "Norse Mythology",
+    "Yggdrasil",
+    "Snorri Sturluson",
+    "Cosmic Tree"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "1220",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.penguinrandomhouse.com/"
+}

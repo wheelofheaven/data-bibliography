@@ -1,0 +1,23 @@
+{
+  "id": "poetic-edda",
+  "title": "The Poetic Edda",
+  "description": {
+    "en": "The principal collection of Old Norse mythological and heroic poems (Carolyne Larrington's revised 2014 Oxford translation), including the *Völuspá* and *Grímnismál* that describe Yggdrasil, the Norse cosmic tree. The standard primary source for the Yggdrasil tradition the corpus reads comparatively against the Tree of Life."
+  },
+  "authored_by": [
+    "Carolyne Larrington (trans.)"
+  ],
+  "topics": [
+    "Norse Mythology",
+    "Yggdrasil",
+    "Cosmic Tree",
+    "Poetic Edda"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "2014",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://global.oup.com/academic/"
+}

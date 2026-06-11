@@ -1,0 +1,23 @@
+{
+  "id": "bhagavad-gita",
+  "title": "The Bhagavad Gita",
+  "description": {
+    "en": "The principal Hindu philosophical-religious poem (Eknath Easwaran's translation), including the cosmic Ashvattha (sacred fig) tree of chapter 15 with roots in heaven and branches in earth. A primary source for the Hindu cosmic-tree tradition the corpus reads comparatively."
+  },
+  "authored_by": [
+    "Eknath Easwaran (trans.)"
+  ],
+  "topics": [
+    "Hindu Scripture",
+    "Ashvattha",
+    "Cosmic Tree",
+    "Bhagavad Gita"
+  ],
+  "stance": "neutral",
+  "source_type": "scripture",
+  "publish_date": "2007",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.bmcm.org/"
+}

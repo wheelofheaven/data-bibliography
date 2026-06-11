@@ -112,6 +112,14 @@
     "stance": "neutral"
   },
   {
+    "id": "bhagavad-gita",
+    "title": "The Bhagavad Gita",
+    "source_type": "scripture",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "birrell-chinese-mythology",
     "title": "Chinese Mythology: An Introduction",
     "source_type": "myth_text",
@@ -124,6 +132,14 @@
     "title": "Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary",
     "source_type": "academic_monograph",
     "source_family": "mesopotamian",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "bonaventure-lignum-vitae",
+    "title": "The Tree of Life (Lignum Vitae)",
+    "source_type": "commentary",
+    "source_family": "abrahamic",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
@@ -313,6 +329,14 @@
     "stance": "neutral"
   },
   {
+    "id": "ending-aging-de-grey",
+    "title": "Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "enlil-and-ninlil-the-begetting-of-nanna",
     "title": "Enlil and Ninlil: The begetting of Nanna",
     "source_type": "myth_text",
@@ -378,6 +402,14 @@
     "stance": "neutral"
   },
   {
+    "id": "giovino-assyrian-sacred-tree",
+    "title": "The Assyrian Sacred Tree: A History of Interpretations",
+    "source_type": "academic_monograph",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "giza-and-the-pyramids",
     "title": "Giza and the Pyramids: The Definitive History",
     "source_type": "academic_monograph",
@@ -418,6 +450,14 @@
     "stance": "neutral"
   },
   {
+    "id": "hallmarks-of-aging",
+    "title": "The Hallmarks of Aging",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "hamlets-mill",
     "title": "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth",
     "source_type": "academic_monograph",
@@ -449,6 +489,14 @@
     "relation_to_wheel": "comparative_primary",
     "stance": "neutral",
     "library_slug": "corpus-hermeticum"
+  },
+  {
+    "id": "idel-kabbalah-new-perspectives",
+    "title": "Kabbalah: New Perspectives",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "inanna-queen-of-heaven",
@@ -576,6 +624,14 @@
     "source_type": "fiction",
     "source_family": "western_esoteric",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "matt-essential-kabbalah",
+    "title": "The Essential Kabbalah: The Heart of Jewish Mysticism",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -707,6 +763,14 @@
     "stance": "neutral"
   },
   {
+    "id": "parpola-assyrian-tree-of-life",
+    "title": "The Assyrian Tree of Life: Tracing the Origins of Jewish Monotheism and Greek Philosophy",
+    "source_type": "academic_article",
+    "source_family": "mesopotamian",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "parzival",
     "title": "Parzival",
     "source_type": "myth_text",
@@ -728,6 +792,14 @@
     "source_type": "academic_monograph",
     "source_family": "criticism",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "poetic-edda",
+    "title": "The Poetic Edda",
+    "source_type": "myth_text",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -768,6 +840,14 @@
     "source_type": "fiction",
     "source_family": "western_esoteric",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "prose-edda",
+    "title": "The Prose Edda",
+    "source_type": "myth_text",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -835,6 +915,14 @@
     "stance": "neutral"
   },
   {
+    "id": "schele-freidel-forest-of-kings",
+    "title": "A Forest of Kings: The Untold Story of the Ancient Maya",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "science-after-babel",
     "title": "Science After Babel",
     "source_type": "academic_monograph",
@@ -851,11 +939,27 @@
     "stance": "neutral"
   },
   {
+    "id": "sefer-yetzirah",
+    "title": "Sefer Yetzirah: The Book of Creation",
+    "source_type": "scripture",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "serpent-in-the-sky",
     "title": "Serpent in the Sky: The High Wisdom of Ancient Egypt",
     "source_type": "academic_monograph",
     "source_family": "archaeoastronomy",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "shan-hai-jing",
+    "title": "Shan Hai Jing (Classic of Mountains and Seas)",
+    "source_type": "myth_text",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -865,6 +969,14 @@
     "source_family": "science",
     "relation_to_wheel": "scientific_context",
     "stance": "supportive"
+  },
+  {
+    "id": "sinclair-lifespan",
+    "title": "Lifespan: Why We Age — and Why We Don't Have To",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
   },
   {
     "id": "skinner-genesis-icc",
@@ -891,11 +1003,27 @@
     "stance": "neutral"
   },
   {
+    "id": "stordalen-echoes-of-eden",
+    "title": "Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "summa-theologiae",
     "title": "Summa Theologiae",
     "source_type": "commentary",
     "source_family": "abrahamic",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "takahashi-yamanaka-2006",
+    "title": "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -1200,6 +1328,14 @@
     "id": "von-rad-genesis",
     "title": "Genesis: A Commentary",
     "source_type": "commentary",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "wallace-eden-narrative",
+    "title": "The Eden Narrative",
+    "source_type": "academic_monograph",
     "source_family": "abrahamic",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"

@@ -1,0 +1,23 @@
+{
+  "id": "idel-kabbalah-new-perspectives",
+  "title": "Kabbalah: New Perspectives",
+  "description": {
+    "en": "Moshe Idel's 1988 Yale University Press study — the principal modern scholarly reassessment of Kabbalah after Scholem, emphasising the experiential and theurgic dimensions of the tradition. A standard reference for the Kabbalistic Tree of Life the corpus engages comparatively."
+  },
+  "authored_by": [
+    "Moshe Idel"
+  ],
+  "topics": [
+    "Kabbalah",
+    "Sefirot",
+    "Jewish Mysticism",
+    "Tree of Life"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1988",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://yalebooks.yale.edu/"
+}

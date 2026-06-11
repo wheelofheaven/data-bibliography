@@ -1,0 +1,23 @@
+{
+  "id": "bonaventure-lignum-vitae",
+  "title": "The Tree of Life (Lignum Vitae)",
+  "description": {
+    "en": "Bonaventure's c. 1260 meditative treatise structuring Christian contemplation around the Tree-of-Life motif, with the cross of Christ as the renewed Tree of Life. The principal medieval theological treatment of the Tree of Life the corpus engages as a developed Christian theological elaboration."
+  },
+  "authored_by": [
+    "Bonaventure"
+  ],
+  "topics": [
+    "Tree of Life",
+    "Bonaventure",
+    "Medieval Theology",
+    "Christology"
+  ],
+  "stance": "neutral",
+  "source_type": "commentary",
+  "publish_date": "1260",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.franciscantradition.org/"
+}

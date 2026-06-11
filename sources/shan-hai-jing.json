@@ -1,0 +1,23 @@
+{
+  "id": "shan-hai-jing",
+  "title": "Shan Hai Jing (Classic of Mountains and Seas)",
+  "description": {
+    "en": "The ancient Chinese compendium of mythical geography and cosmology (Anne Birrell's Penguin translation), describing the Fusang sun-tree and the broader Chinese sacred-tree material the corpus reads comparatively against the Tree of Life."
+  },
+  "authored_by": [
+    "Anne Birrell (trans.)"
+  ],
+  "topics": [
+    "Chinese Mythology",
+    "Fusang",
+    "Cosmic Tree",
+    "Shan Hai Jing"
+  ],
+  "stance": "neutral",
+  "source_type": "myth_text",
+  "publish_date": "1999",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.penguin.co.uk/"
+}

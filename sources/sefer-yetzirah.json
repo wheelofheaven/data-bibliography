@@ -1,0 +1,23 @@
+{
+  "id": "sefer-yetzirah",
+  "title": "Sefer Yetzirah: The Book of Creation",
+  "description": {
+    "en": "The foundational text of Jewish esoteric cosmology (composed between the 3rd and 6th centuries CE), establishing the framework of the ten sefirot and the twenty-two Hebrew letters that the later Kabbalistic Tree of Life develops. Aryeh Kaplan's 1997 translation (Weiser) is the standard English edition. The corpus engages it as foundational material for the Kabbalistic sefirot tradition."
+  },
+  "authored_by": [
+    "Aryeh Kaplan (trans.)"
+  ],
+  "topics": [
+    "Kabbalah",
+    "Sefirot",
+    "Sefer Yetzirah",
+    "Jewish Mysticism"
+  ],
+  "stance": "neutral",
+  "source_type": "scripture",
+  "publish_date": "1997",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.redwheelweiser.com/"
+}

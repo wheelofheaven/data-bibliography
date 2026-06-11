@@ -1,0 +1,23 @@
+{
+  "id": "wallace-eden-narrative",
+  "title": "The Eden Narrative",
+  "description": {
+    "en": "Howard N. Wallace's 1985 Harvard Semitic Monographs study of the Genesis 2–3 Eden narrative in its ancient Near Eastern context, including the two trees and the sacred-tree background. A standard scholarly reference for the mainstream reading of the Tree of Life material."
+  },
+  "authored_by": [
+    "Howard N. Wallace"
+  ],
+  "topics": [
+    "Eden",
+    "Tree of Life",
+    "Genesis",
+    "Ancient Near East"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1985",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.eisenbrauns.org/"
+}

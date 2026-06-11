@@ -1,0 +1,23 @@
+{
+  "id": "matt-essential-kabbalah",
+  "title": "The Essential Kabbalah: The Heart of Jewish Mysticism",
+  "description": {
+    "en": "Daniel Matt's 1996 HarperOne anthology of Kabbalistic texts in translation — the accessible standard introduction to the Kabbalistic tradition including the Tree of Life sefirot diagram. Matt is also the translator of the Pritzker Zohar."
+  },
+  "authored_by": [
+    "Daniel C. Matt"
+  ],
+  "topics": [
+    "Kabbalah",
+    "Sefirot",
+    "Tree of Life",
+    "Jewish Mysticism"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1996",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.harpercollins.com/"
+}

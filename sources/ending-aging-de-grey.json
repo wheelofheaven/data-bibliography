@@ -1,0 +1,24 @@
+{
+  "id": "ending-aging-de-grey",
+  "title": "Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime",
+  "description": {
+    "en": "Aubrey de Grey and Michael Rae's 2007 St. Martin's Press work articulating the SENS (Strategies for Engineered Negligible Senescence) framework — the principal early systematic engineering proposal for comprehensive rejuvenation. The corpus engages it as part of the longevity-research trajectory demonstrating that radical lifespan extension is not biologically impossible."
+  },
+  "authored_by": [
+    "Aubrey de Grey",
+    "Michael Rae"
+  ],
+  "topics": [
+    "Longevity",
+    "Rejuvenation",
+    "SENS",
+    "Aging"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2007",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.sens.org/"
+}
