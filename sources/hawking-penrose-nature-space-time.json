@@ -1,0 +1,24 @@
+{
+  "id": "hawking-penrose-nature-space-time",
+  "title": "The Nature of Space and Time",
+  "description": {
+    "en": "Stephen Hawking and Roger Penrose's 1996 Princeton University Press exchange on the structure of spacetime, singularities, and cosmic origins — a standard reference for the contemporary cosmological treatment of cosmic-origin questions the corpus engages around the Cosmic Chain."
+  },
+  "authored_by": [
+    "Stephen Hawking",
+    "Roger Penrose"
+  ],
+  "topics": [
+    "Cosmology",
+    "Spacetime",
+    "Hawking",
+    "Penrose"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1996",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://press.princeton.edu/"
+}

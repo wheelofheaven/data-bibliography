@@ -1,0 +1,23 @@
+{
+  "id": "vilenkin-many-worlds-in-one",
+  "title": "Many Worlds in One: The Search for Other Universes",
+  "description": {
+    "en": "Alexander Vilenkin's 2006 Hill and Wang work on eternal inflation and the multiverse, including the quantum-cosmology origin-of-the-universe proposal. A standard accessible treatment of the multiverse cosmology the corpus reads alongside the Cosmic Chain."
+  },
+  "authored_by": [
+    "Alexander Vilenkin"
+  ],
+  "topics": [
+    "Cosmology",
+    "Multiverse",
+    "Eternal Inflation",
+    "Vilenkin"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2006",
+  "source_family": "science",
+  "relation_to_wheel": "scientific_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://us.macmillan.com/"
+}

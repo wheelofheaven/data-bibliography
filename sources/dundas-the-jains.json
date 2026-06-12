@@ -1,0 +1,23 @@
+{
+  "id": "dundas-the-jains",
+  "title": "The Jains",
+  "description": {
+    "en": "Paul Dundas's standard 2002 Routledge survey of Jainism, including the Jain doctrine of beginningless and endless cosmic time (the cycles of *utsarpiṇī* and *avasarpiṇī*). The corpus engages it for the Jain beginningless-cycle cosmology that parallels the Cosmic Chain."
+  },
+  "authored_by": [
+    "Paul Dundas"
+  ],
+  "topics": [
+    "Jainism",
+    "Cyclic Time",
+    "Cosmology",
+    "Beginningless Time"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2002",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.routledge.com/"
+}

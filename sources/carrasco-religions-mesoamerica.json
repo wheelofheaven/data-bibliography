@@ -1,0 +1,23 @@
+{
+  "id": "carrasco-religions-mesoamerica",
+  "title": "Religions of Mesoamerica",
+  "description": {
+    "en": "Davíd Carrasco's standard survey of Mesoamerican religion (2nd ed., Waveland Press), including the Aztec doctrine of successive world-ages or 'suns' destroyed and recreated. The corpus engages it for the Mesoamerican cyclic-cosmology parallel to the Cosmic Chain."
+  },
+  "authored_by": [
+    "Davíd Carrasco"
+  ],
+  "topics": [
+    "Mesoamerica",
+    "Aztec",
+    "Cyclic Cosmology",
+    "World Ages"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2014",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.waveland.com/"
+}

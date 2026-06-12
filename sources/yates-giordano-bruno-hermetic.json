@@ -1,0 +1,23 @@
+{
+  "id": "yates-giordano-bruno-hermetic",
+  "title": "Giordano Bruno and the Hermetic Tradition",
+  "description": {
+    "en": "Frances A. Yates's 1964 University of Chicago Press study situating Bruno's infinite-cosmos doctrine within the Renaissance Hermetic tradition — the standard scholarly treatment of the esoteric-cosmological context the corpus engages around the Cosmic Chain's 'as above, so below' material."
+  },
+  "authored_by": [
+    "Frances A. Yates"
+  ],
+  "topics": [
+    "Bruno",
+    "Hermeticism",
+    "Renaissance",
+    "Cosmology"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1964",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://press.uchicago.edu/"
+}

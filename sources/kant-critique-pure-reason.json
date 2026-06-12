@@ -1,0 +1,23 @@
+{
+  "id": "kant-critique-pure-reason",
+  "title": "Critique of Pure Reason",
+  "description": {
+    "en": "Immanuel Kant's 1781 critical philosophy, whose antinomies of pure reason treat the question of cosmic infinity (whether the world has a beginning in time and limits in space) as a structural problem for reason. The corpus engages Kant's treatment of the infinity question as a principal philosophical reference point for the Cosmic Chain's 'no first creator' position."
+  },
+  "authored_by": [
+    "Immanuel Kant"
+  ],
+  "topics": [
+    "Philosophy",
+    "Cosmic Infinity",
+    "Kant",
+    "Antinomies"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1781",
+  "source_family": "criticism",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/4280"
+}

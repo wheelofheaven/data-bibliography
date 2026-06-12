@@ -56,6 +56,14 @@
     "stance": "neutral"
   },
   {
+    "id": "arrhenius-worlds-in-the-making",
+    "title": "Worlds in the Making: The Evolution of the Universe",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "atlantis-antediluvian-world",
     "title": "Atlantis: The Antediluvian World",
     "source_type": "academic_monograph",
@@ -169,11 +177,35 @@
     "stance": "neutral"
   },
   {
+    "id": "bruno-infinite-universe",
+    "title": "On the Infinite Universe and Worlds (De l'infinito universo et mondi)",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "buswell-lopez-princeton-buddhism",
+    "title": "The Princeton Dictionary of Buddhism",
+    "source_type": "encyclopedia",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "cain-a-mystery",
     "title": "Cain: A Mystery",
     "source_type": "fiction",
     "source_family": "western_esoteric",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "carrasco-religions-mesoamerica",
+    "title": "Religions of Mesoamerica",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -238,6 +270,22 @@
     "source_type": "documentary",
     "source_family": "supplementary",
     "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "crick-life-itself",
+    "title": "Life Itself: Its Origin and Nature",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "crick-orgel-directed-panspermia",
+    "title": "Directed Panspermia",
+    "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -308,6 +356,14 @@
     "id": "doniger-hindu-myths",
     "title": "Hindu Myths: A Sourcebook",
     "source_type": "myth_text",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "dundas-the-jains",
+    "title": "The Jains",
+    "source_type": "academic_monograph",
     "source_family": "supplementary",
     "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
@@ -466,9 +522,25 @@
     "stance": "neutral"
   },
   {
+    "id": "hannah-greek-roman-calendars",
+    "title": "Greek and Roman Calendars: Constructions of Time in the Classical World",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "haselhoff-physiologia-plantarum-2001",
     "title": "Opinions and Comments on Levengood WC, Talbott NP (1999) Dispersion of Energies in Worldwide Crop Formations",
     "source_type": "academic_article",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "hawking-penrose-nature-space-time",
+    "title": "The Nature of Space and Time",
+    "source_type": "academic_monograph",
     "source_family": "science",
     "relation_to_wheel": "scientific_context",
     "stance": "neutral"
@@ -489,6 +561,14 @@
     "relation_to_wheel": "comparative_primary",
     "stance": "neutral",
     "library_slug": "corpus-hermeticum"
+  },
+  {
+    "id": "hoyle-wickramasinghe-lifecloud",
+    "title": "Lifecloud: The Origin of Life in the Universe",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
   },
   {
     "id": "idel-kabbalah-new-perspectives",
@@ -536,6 +616,14 @@
     "source_type": "academic_monograph",
     "source_family": "science",
     "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "kant-critique-pure-reason",
+    "title": "Critique of Pure Reason",
+    "source_type": "academic_monograph",
+    "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
   {
@@ -587,10 +675,26 @@
     "stance": "neutral"
   },
   {
+    "id": "linde-inflation-quantum-cosmology",
+    "title": "Inflation and Quantum Cosmology",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "lindow-norse-mythology",
     "title": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
     "source_type": "academic_monograph",
     "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "long-sedley-hellenistic-philosophers",
+    "title": "The Hellenistic Philosophers",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
     "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
@@ -723,6 +827,14 @@
     "stance": "critical"
   },
   {
+    "id": "nietzsche-zarathustra",
+    "title": "Thus Spoke Zarathustra",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "origins-of-the-worlds-mythologies",
     "title": "The Origins of the World's Mythologies",
     "source_type": "academic_monograph",
@@ -776,6 +888,14 @@
     "source_type": "myth_text",
     "source_family": "supplementary",
     "relation_to_wheel": "supplementary",
+    "stance": "neutral"
+  },
+  {
+    "id": "penrose-cycles-of-time",
+    "title": "Cycles of Time: An Extraordinary New View of the Universe",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -995,6 +1115,14 @@
     "stance": "neutral"
   },
   {
+    "id": "steinhardt-turok-endless-universe",
+    "title": "Endless Universe: Beyond the Big Bang",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "stonehenge-parker-pearson",
     "title": "Stonehenge: Exploring the Greatest Stone Age Mystery",
     "source_type": "academic_monograph",
@@ -1040,6 +1168,14 @@
     "source_type": "myth_text",
     "source_family": "supplementary",
     "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "tegmark-mathematical-universe",
+    "title": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
     "stance": "neutral"
   },
   {
@@ -1317,6 +1453,14 @@
     "stance": "critical"
   },
   {
+    "id": "vilenkin-many-worlds-in-one",
+    "title": "Many Worlds in One: The Search for Other Universes",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "voices-of-the-rocks",
     "title": "Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations",
     "source_type": "academic_monograph",
@@ -1349,12 +1493,28 @@
     "stance": "neutral"
   },
   {
+    "id": "williams-mahayana-buddhism",
+    "title": "Mahāyāna Buddhism: The Doctrinal Foundations",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "wonders-in-the-sky",
     "title": "Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times",
     "source_type": "academic_monograph",
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "yates-giordano-bruno-hermetic",
+    "title": "Giordano Bruno and the Hermetic Tradition",
+    "source_type": "academic_monograph",
+    "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "zohar-pritzker",

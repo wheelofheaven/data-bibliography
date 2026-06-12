@@ -1,0 +1,23 @@
+{
+  "id": "nietzsche-zarathustra",
+  "title": "Thus Spoke Zarathustra",
+  "description": {
+    "en": "Friedrich Nietzsche's 1883–1885 philosophical work, the principal articulation of the doctrine of eternal recurrence (*ewige Wiederkunft*) — the cyclic-cosmological idea the corpus reads as a Western philosophical parallel to the Cosmic Chain's recurrent structure."
+  },
+  "authored_by": [
+    "Friedrich Nietzsche"
+  ],
+  "topics": [
+    "Eternal Recurrence",
+    "Nietzsche",
+    "Cyclic Cosmology",
+    "Philosophy"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1885",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.gutenberg.org/ebooks/1998"
+}

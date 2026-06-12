@@ -1,0 +1,24 @@
+{
+  "id": "long-sedley-hellenistic-philosophers",
+  "title": "The Hellenistic Philosophers",
+  "description": {
+    "en": "A. A. Long and D. N. Sedley's 1987 Cambridge University Press two-volume sourcebook of Hellenistic philosophy, including the Stoic doctrine of eternal cosmic cycles (*ekpyrosis* and palingenesis). The standard reference for the Stoic cyclic-cosmology the corpus engages comparatively with the Cosmic Chain."
+  },
+  "authored_by": [
+    "A. A. Long",
+    "D. N. Sedley"
+  ],
+  "topics": [
+    "Stoicism",
+    "Eternal Cycles",
+    "Hellenistic Philosophy",
+    "Ekpyrosis"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "1987",
+  "source_family": "western_esoteric",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.cambridge.org/"
+}
