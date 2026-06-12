@@ -177,6 +177,14 @@
     "stance": "neutral"
   },
   {
+    "id": "boyce-zoroastrians",
+    "title": "Zoroastrians: Their Religious Beliefs and Practices",
+    "source_type": "academic_monograph",
+    "source_family": "iranian",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "bruno-infinite-universe",
     "title": "On the Infinite Universe and Worlds (De l'infinito universo et mondi)",
     "source_type": "academic_monograph",
@@ -198,6 +206,14 @@
     "source_type": "fiction",
     "source_family": "western_esoteric",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "carrasco-quetzalcoatl",
+    "title": "Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -254,6 +270,14 @@
     "source_type": "commentary",
     "source_family": "abrahamic",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "cook-muslim-apocalyptic",
+    "title": "Studies in Muslim Apocalyptic",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -361,6 +385,14 @@
     "stance": "neutral"
   },
   {
+    "id": "doniger-the-hindus",
+    "title": "The Hindus: An Alternative History",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
     "id": "dundas-the-jains",
     "title": "The Jains",
     "source_type": "academic_monograph",
@@ -381,6 +413,14 @@
     "title": "Edgar Cayce on Atlantis",
     "source_type": "academic_monograph",
     "source_family": "western_esoteric",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "elizondo-imminent",
+    "title": "Imminent: Inside the Pentagon's Hunt for UFOs",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
@@ -506,11 +546,35 @@
     "stance": "neutral"
   },
   {
+    "id": "goldberg-fight-for-jerusalem",
+    "title": "The Fight for Jerusalem: Radical Islam, the West, and the Future of the Holy City",
+    "source_type": "academic_monograph",
+    "source_family": "supplementary",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "grusch-congressional-testimony",
+    "title": "Testimony to the U.S. House Oversight Committee (July 26, 2023)",
+    "source_type": "official_document",
+    "source_family": "supplementary",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "hallmarks-of-aging",
     "title": "The Hallmarks of Aging",
     "source_type": "academic_article",
     "source_family": "science",
     "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "halperin-faces-of-the-chariot",
+    "title": "The Faces of the Chariot: Early Jewish Responses to Ezekiel's Vision",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
   {
@@ -659,6 +723,14 @@
     "stance": "neutral"
   },
   {
+    "id": "lateran-treaty",
+    "title": "Lateran Treaty",
+    "source_type": "official_document",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "lets-welcome-the-extraterrestrials",
     "title": "Let's Welcome The Extraterrestrials",
     "source_type": "scripture",
@@ -691,6 +763,22 @@
     "stance": "neutral"
   },
   {
+    "id": "loeb-extraterrestrial",
+    "title": "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "loeb-interstellar",
+    "title": "Interstellar: The Search for Extraterrestrial Life and Our Future Beyond Earth",
+    "source_type": "academic_monograph",
+    "source_family": "science",
+    "relation_to_wheel": "scientific_context",
+    "stance": "neutral"
+  },
+  {
     "id": "long-sedley-hellenistic-philosophers",
     "title": "The Hellenistic Philosophers",
     "source_type": "academic_monograph",
@@ -712,6 +800,14 @@
     "source_type": "academic_monograph",
     "source_family": "archaeoastronomy",
     "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "maimonides-mishneh-torah",
+    "title": "Mishneh Torah, Hilchot Melachim",
+    "source_type": "commentary",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
     "stance": "neutral"
   },
   {
@@ -1023,6 +1119,22 @@
     "title": "Lucifer: The Devil in the Middle Ages",
     "source_type": "academic_monograph",
     "source_family": "criticism",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
+    "id": "sachedina-islamic-messianism",
+    "title": "Islamic Messianism: The Idea of Mahdi in Twelver Shi'ism",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "comparative_primary",
+    "stance": "neutral"
+  },
+  {
+    "id": "sandt-zangenberg-matthew-james-didache",
+    "title": "Matthew, James, and Didache: Three Related Documents in Their Jewish and Christian Settings",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
     "relation_to_wheel": "scholarly_context",
     "stance": "neutral"
   },
@@ -1453,6 +1565,14 @@
     "stance": "critical"
   },
   {
+    "id": "vienna-convention-diplomatic-relations",
+    "title": "Vienna Convention on Diplomatic Relations",
+    "source_type": "official_document",
+    "source_family": "supplementary",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
+  },
+  {
     "id": "vilenkin-many-worlds-in-one",
     "title": "Many Worlds in One: The Search for Other Universes",
     "source_type": "academic_monograph",
@@ -1507,6 +1627,14 @@
     "source_family": "neo_euhemerism",
     "relation_to_wheel": "supplementary",
     "stance": "supportive"
+  },
+  {
+    "id": "wright-resurrection-son-of-god",
+    "title": "The Resurrection of the Son of God",
+    "source_type": "academic_monograph",
+    "source_family": "abrahamic",
+    "relation_to_wheel": "scholarly_context",
+    "stance": "neutral"
   },
   {
     "id": "yates-giordano-bruno-hermetic",

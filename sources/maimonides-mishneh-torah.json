@@ -1,0 +1,23 @@
+{
+  "id": "maimonides-mishneh-torah",
+  "title": "Mishneh Torah, Hilchot Melachim",
+  "description": {
+    "en": "Maimonides' 12th-century legal code; *Hilchot Melachim* 11:1 sets out the principal Maimonidean position on the messianic age and the rebuilding of the Temple. The standard classical Jewish-legal reference for the Third Temple expectation the corpus engages around the embassy's identification with the Third Temple."
+  },
+  "authored_by": [
+    "Moses Maimonides"
+  ],
+  "topics": [
+    "Third Temple",
+    "Maimonides",
+    "Jewish Law",
+    "Messianism"
+  ],
+  "stance": "neutral",
+  "source_type": "commentary",
+  "publish_date": "1180",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.sefaria.org/Mishneh_Torah%2C_Kings_and_Wars"
+}

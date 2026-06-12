@@ -1,0 +1,23 @@
+{
+  "id": "cook-muslim-apocalyptic",
+  "title": "Studies in Muslim Apocalyptic",
+  "description": {
+    "en": "David Cook's 2002 Darwin Press study of the Muslim apocalyptic tradition — the standard scholarly treatment of Islamic end-times expectation the corpus engages comparatively with the embassy's projected arrival."
+  },
+  "authored_by": [
+    "David Cook"
+  ],
+  "topics": [
+    "Islamic Apocalyptic",
+    "Mahdi",
+    "Eschatology",
+    "Islam"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2002",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.darwinpress.com/"
+}

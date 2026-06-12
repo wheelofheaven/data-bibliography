@@ -1,0 +1,23 @@
+{
+  "id": "vienna-convention-diplomatic-relations",
+  "title": "Vienna Convention on Diplomatic Relations",
+  "description": {
+    "en": "The 1961 international treaty (entered into force 1964) codifying the framework for diplomatic missions, extraterritorial status, and diplomatic immunities and privileges. The principal contemporary legal framework the corpus engages for the embassy's extraterritorial-status requirement."
+  },
+  "authored_by": [
+    "United Nations"
+  ],
+  "topics": [
+    "Diplomatic Law",
+    "Extraterritoriality",
+    "Embassy",
+    "International Law"
+  ],
+  "stance": "neutral",
+  "source_type": "official_document",
+  "publish_date": "1961",
+  "source_family": "supplementary",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://legal.un.org/ilc/texts/instruments/english/conventions/9_1_1961.pdf"
+}

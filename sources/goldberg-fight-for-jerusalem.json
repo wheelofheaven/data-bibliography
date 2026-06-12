@@ -1,0 +1,23 @@
+{
+  "id": "goldberg-fight-for-jerusalem",
+  "title": "The Fight for Jerusalem: Radical Islam, the West, and the Future of the Holy City",
+  "description": {
+    "en": "Hillel Goldberg's 2007 Regnery treatment of the contemporary political contest over Jerusalem and the Temple Mount — political-historical context for the corpus's discussion of the embassy's original Jerusalem location preference and the obstacles to it."
+  },
+  "authored_by": [
+    "Hillel Goldberg"
+  ],
+  "topics": [
+    "Jerusalem",
+    "Temple Mount",
+    "Third Temple",
+    "Contemporary Politics"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2007",
+  "source_family": "supplementary",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.regnery.com/"
+}

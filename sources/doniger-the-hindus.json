@@ -1,0 +1,23 @@
+{
+  "id": "doniger-the-hindus",
+  "title": "The Hindus: An Alternative History",
+  "description": {
+    "en": "Wendy Doniger's 2009 Penguin survey of Hindu history and tradition, including the Kalki avatar (the future-coming tenth avatar of Vishnu) the corpus engages comparatively with the embassy's projected arrival."
+  },
+  "authored_by": [
+    "Wendy Doniger"
+  ],
+  "topics": [
+    "Hinduism",
+    "Kalki",
+    "Avatar",
+    "Comparative Eschatology"
+  ],
+  "stance": "neutral",
+  "source_type": "academic_monograph",
+  "publish_date": "2009",
+  "source_family": "supplementary",
+  "relation_to_wheel": "comparative_primary",
+  "licensing_status": "licensed",
+  "follow_url": "https://www.penguin.co.uk/"
+}

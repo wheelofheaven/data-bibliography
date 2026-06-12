@@ -1,0 +1,24 @@
+{
+  "id": "lateran-treaty",
+  "title": "Lateran Treaty",
+  "description": {
+    "en": "The 1929 treaty between the Holy See and Italy establishing Vatican City State as a sovereign extraterritorial entity within Rome — the principal contemporary precedent for a religious entity holding sovereign territory. The corpus engages it as the closest legal analogue to the embassy's requested status."
+  },
+  "authored_by": [
+    "Holy See",
+    "Kingdom of Italy"
+  ],
+  "topics": [
+    "Vatican City",
+    "Sovereignty",
+    "Extraterritoriality",
+    "Lateran Treaty"
+  ],
+  "stance": "neutral",
+  "source_type": "official_document",
+  "publish_date": "1929",
+  "source_family": "abrahamic",
+  "relation_to_wheel": "scholarly_context",
+  "licensing_status": "public_domain",
+  "follow_url": "https://www.vaticanstate.va/"
+}
